@@ -1,0 +1,23 @@
+{
+	"name": "mariadb-node",
+	"version": "1.0.0",
+	"description": "Mariadb + Node.js",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https:github.com/Alaude30/mariadb-node.git"
+	},
+	"keywords": [
+		"Mariadb",
+		"+",
+		"Node.js"
+	],
+	"author": "Julius Fidelis Hubilla",
+	"license": "ISC",
+	"dependencies": {
+		"mariadb": "^2.0.1-beta"
+	}
+}
