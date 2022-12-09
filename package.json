@@ -18,7 +18,7 @@
 	"author": "Julius Fidelis Hubilla",
 	"license": "ISC",
 	"dependencies": {
-		"express": "^4.16.4",
+		"express": "^4.17.3",
 		"mariadb": "^2.0.1-beta"
 	}
 }
